@@ -14,7 +14,7 @@ theme = "anatole-zola"
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
-title = ""
+title = "Recipes4Life"
 description = "Recipes. Plain And Simple."
 base_url = "https://recipes4life.netlify.app"
 default_language = "en"
