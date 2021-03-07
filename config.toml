@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://recipes4life.xyz"
+base_url = "https://recipes4life.netlify.app"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -16,7 +16,7 @@ highlight_code = true
 
 title = ""
 description = "Recipes. Plain And Simple."
-base_url = "https://recipes4life.xyz"
+base_url = "https://recipes4life.netlify.app"
 default_language = "en"
 
 [extra]
